@@ -1,0 +1,4 @@
+ini adalah file2
+Menambah baris baru pada file2
+Menambah baris kedua pada file2
+Menambah baris ketiga pada file2

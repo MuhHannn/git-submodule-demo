@@ -1,2 +1,0 @@
-ini adalah file2
-Menambah baris baru pada file2
