@@ -1,0 +1,9 @@
+# Ignore folder rahasia
+/log
+
+# Ignore file dengan extension .backup
+*.backup
+
+# Ignire file
+ignore.txt
+log.mp4
