@@ -1,0 +1,2 @@
+ini adalah contoh git fetch yang pertama
+ini adalah contoh git fetch yang kedua
